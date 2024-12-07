@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer i
 ### 🌟 About Me  
 - 🔭 **Current Focus**: Automation testing, Cypress, and the Page Object Model (POM).  
 - 🎓 **Education**:  
-  - Completed **SDET course** at Masai.  
+  - Pursuing **SDET course** at Masai.  
   - Earned an **MCA degree** from Galgotias University.  
 - 💻 **Skills**:  
   - Automation Testing: Cypress, Selenium, TestNG  
