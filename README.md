@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate **Software Development Engineer in Test (SDET)** with a strong foundation in **automation testing** and a knack for building robust testing frameworks. I enjoy ensuring software quality and reliability by leveraging cutting-edge tools and technologies.  
 
-# Hi there! 👋
-
-## 🚀 About Me
-I am a **Software Automation Engineer** with a passion for ensuring high-quality software delivery through robust manual and automated testing. With expertise in Cypress, Selenium, Java, and more, I bring a detail-oriented and collaborative approach to software testing.
 
 ## 🛠️ Skills & Expertise
 
