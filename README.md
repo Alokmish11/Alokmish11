@@ -2,28 +2,69 @@
 
 Welcome to my GitHub profile! I'm a passionate **Software Development Engineer in Test (SDET)** with a strong foundation in **automation testing** and a knack for building robust testing frameworks. I enjoy ensuring software quality and reliability by leveraging cutting-edge tools and technologies.  
 
----
+# Hi there! 👋
 
-### 🌟 About Me  
-- 🔭 **Current Focus**: Automation testing, Cypress, and the Page Object Model (POM).  
-- 🎓 **Education**:  
-  - Pursuing **SDET course** at Masai.  
-  - Earned an **MCA degree** from Galgotias University.  
-- 💻 **Skills**:  
-  - Automation Testing: Cypress, Selenium, TestNG  
-  - Programming: JavaScript, Java, Python  
-  - Tools: Jenkins, Git, JIRA  
-  - Frameworks: Page Object Model (POM), Data-Driven Testing (DDT), BDD (Cucumber)  
-- 🌱 **Learning**: Expanding expertise in **Cypress** and exploring new testing methodologies.  
-- 🎯 **Goals**: Contribute to open-source projects and master full-stack testing workflows.  
+## 🚀 About Me
+I am a **Software Automation Engineer** with a passion for ensuring high-quality software delivery through robust manual and automated testing. With expertise in Cypress, Selenium, Java, and more, I bring a detail-oriented and collaborative approach to software testing.
 
+## 🛠️ Skills & Expertise
 
+### Manual Testing
+- Proficient in creating and executing detailed test plans and test cases.
+- Strong understanding of SDLC and STLC.
+- Expertise in defect reporting and tracking using tools like JIRA.
 
-- 🔭 Manual Testing Project [Vision Script Website](https://github.com/Alokmish11/Manual-Testing-Project.git)
+### Automation Testing
+- **Cypress**: Expertise in creating robust automation frameworks using Cypress.
+- **Page Object Model (POM)**: Skilled in designing scalable and maintainable test automation frameworks.
+- **Behavior-Driven Development (BDD)**: Experience with **Cucumber** for writing Gherkin-based test scenarios.
+- **Selenium**: Proficient in automating web applications using Selenium WebDriver.
+- **TestNG**: Knowledgeable in creating and managing test suites with TestNG.
+- **Java**: Strong foundation in Java programming for developing automation scripts.
 
-- 👯 Manual-Automation Testing Project [OrangeHRM Website](https://github.com/Alokmish11/SDET-project.git)
+## 📂 Tools & Technologies
+- **Test Management**: JIRA, TestRail
+- **Version Control**: Git, GitHub
+- **CI/CD**: Jenkins, GitHub Actions
+- **IDE**: IntelliJ IDEA, Eclipse, Visual Studio Code
+- **Browsers**: Chrome, Firefox, Edge
 
-- 📫 How to reach me **Alokmi2111997@gmail.com**
+## 🌟 Achievements
+- Certificate of Completion for Manual Testing Project (Masai School).
+- Recognized in the Masai Speaking Marathon (MSM).
+- Certification in DSA with Java (Apna College).
+
+## 📚 Learning & Growth
+I am constantly improving my skills and staying updated with the latest trends in automation testing. Currently, I am enhancing my expertise in:
+- Advanced Cypress techniques.
+- Exploring API testing tools like Postman and RestAssured.
+- Expanding my knowledge of performance testing tools like JMeter.
+
+## 🏆 Projects
+
+### Tool Demo Shop Website
+- **Technologies**: Cypress, POM, BDD with Cucumber, JavaScript
+- **Description**: Developed an automation testing framework to validate key functionalities of the Tool Demo Shop website.
+- **Highlights**:
+  - Implemented POM for maintainable and scalable test automation.
+  - Automated test scenarios for navigation and product listings.
+  - Enhanced collaboration with the development team by reporting issues with clear replication steps.
+
+### VisionScript Website
+- **Technologies**: Manual Testing, JIRA
+- **Description**: Conducted end-to-end manual testing focusing on functionality, usability, and cross-platform compatibility.
+- **Highlights**:
+  - Designed and executed detailed test cases for user authentication and file management.
+  - Identified and documented algorithmic and logical errors.
+  - Performed regression testing to enhance user experience.
+
+## 🤝 Let's Connect
+- **Portfolio**: [My Portfolio](https://heartfelt-melomakarona-d83b9a.netlify.app/)
+- **GitHub**: [Alok Mishra's GitHub](https://github.com/Alokmish11)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/alok-mishra-90067224a)
+- **Email**: Alokmi2111997@gmail.com
+- **Resume**: [View My Resume](https://drive.google.com/file/d/1IvRLpz_mZMp6EMleukqiwbPOuzNt33AP/view?usp=sharing)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
