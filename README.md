@@ -59,7 +59,7 @@ I am constantly improving my skills and staying updated with the latest trends i
 - **GitHub**: [Alok Mishra's GitHub](https://github.com/Alokmish11)
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/alok-mishra-90067224a)
 - **Email**: Alokmi2111997@gmail.com
-- **Resume**: [View My Resume](https://drive.google.com/file/d/1IvRLpz_mZMp6EMleukqiwbPOuzNt33AP/view?usp=sharing)
+- **Resume**: [View My Resume](https://drive.google.com/file/d/1rapjORWjrW_ngJThYAXyBtuBA4ykY6Yo/view?usp=sharing)
 
 
 
