@@ -105,13 +105,7 @@ I am a results-driven **Software Development Engineer in Test (SDET)** with expe
 - **GitHub**: [Alokmish11](https://github.com/Alokmish11)  
 - **Email**: [Alokmi2111997@gmail.com](mailto:Alokmi2111997@gmail.com)  
 
----
 
-## 💬 **Quote I Live By**
-
-> *"Quality is never an accident; it is always the result of intelligent effort."*  
-
----
 
 ### Why This Version Stands Out:
 1. **Professional Tone**: Focused on showcasing your expertise and achievements in a concise and impactful manner.
