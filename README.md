@@ -1,11 +1,5 @@
 # Hi there, I'm Alok Mishra! 👋
 
-<div align="center">
-  <img src="https://in.images.search.yahoo.com/yhs/view;_ylt=AwrPpY4QjYhnTgI_R2QO9olQ;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2NiZTkzMmI4NzQ1NzZlYWFiZDMzNmQxMjUwY2I5MGI5BGdwb3MDMgRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dtesting%2Bautomation%26ei%3DUTF-8%26type%3Dtype80160-3464885101%26fr%3Dyhs-sz-002%26hsimp%3Dyhs-002%26hspart%3Dsz%26param1%3D635467600%26tab%3Dorganic%26ri%3D2&w=857&h=491&imgurl=mmcgbl.com%2Fwp-content%2Fuploads%2F2022%2F04%2FSoftware-Automation-Testing.png&rurl=https%3A%2F%2Fmmcgbl.com%2Fwhat-is-automation-testing-7-benefits%2F&size=52KB&p=testing+automation&oid=cbe932b874576eaabd336d1250cb90b9&fr2=&fr=yhs-sz-002&tt=7+Benefits+of+Implementing+Automation+Testing+%7C+MMC+Global&b=0&ni=160&no=2&ts=&tab=organic&sigr=gUK3hgqAlTMl&sigb=VcUmdBHsvwez&sigi=MCE3BUCYGh2i&sigt=nNSud8HjLgxk&.crumb=Z4elZLyMzQN&fr=yhs-sz-002&hsimp=yhs-002&hspart=sz&type=type80160-3464885101&param1=635467600" alt="Automation Testing Banner" width="100%">
-</div>
-
----
-
 ### 🚀 **SDET/QA | Automation Testing Specialist | Tech Enthusiast**
 
 I'm a passionate Software Development Engineer in Test (SDET) skilled in automation and manual testing, with a drive to deliver high-quality software solutions. I love exploring new technologies and staying ahead in the ever-evolving tech landscape.
