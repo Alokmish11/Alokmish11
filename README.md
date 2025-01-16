@@ -23,6 +23,25 @@ I am a results-driven **Software Development Engineer in Test (SDET)** with expe
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
+## 📂 Projects
+### 1. [Manual Testing Project - VisionScript Website](https://github.com/Alokmish11/Manual-Testing-Project.git)
+- Conducted comprehensive end-to-end manual testing to identify software and logic errors.
+- Designed and executed test cases for user authentication, file management, and script editor functionalities.
+- Reported bugs using Jira and performed regression testing for quality assurance.
+
+### 2. [Automation Testing Project - Tool Demo Shop](https://github.com/Alokmish11/Tools-Shop-Demo.git)
+- Developed an automation testing framework using Cypress with POM and BDD.
+- Automated test scenarios to validate seamless navigation and product listings.
+- Collaborated with developers to resolve issues and enhance website functionality.
+
+### 3. [Cucumber Project - E-commerce Testing]()
+- Built a robust automation testing framework using *Cucumber* with *BDD* principles.
+- Validated critical workflows such as user login, product search, and checkout process.
+- Ensured test maintainability and scalability by implementing the *Page Object Model (POM)*.
+- Enhanced collaboration by writing feature files in *Gherkin*, making scenarios readable for all stakeholders.
+
+
 ## 🏆 **Achievements**
 
 - **Certificate of Completion**: Manual Testing Project, Masai School  
