@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer i
 - **Browsers**: Chrome, Firefox, Edge
 
 ## 🌟 Achievements
-- Certificate of Completion for Manual Testing Project (Masai School).
-- Recognized in the Masai Speaking Marathon (MSM).
-- Certification in DSA with Java (Apna College).
+- Certificate of Completion for Manual Testing Project (Masai School). https://drive.google.com/file/d/1DZMobwlw5w-lQBJyMSzBaQWWa6ViPT1-/view?usp=sharing
+- Recognized in the Masai Speaking Marathon (MSM). https://drive.google.com/file/d/14sUefWINBC9tyE83eFg9RRy79NXRHizB/view?usp=sharing
+- Certification in DSA with Java (Apna College). https://drive.google.com/file/d/1IvRLpz_mZMp6EMleukqiwbPOuzNt33AP/view?usp=sharing
 
 ## 📚 Learning & Growth
 I am constantly improving my skills and staying updated with the latest trends in automation testing. Currently, I am enhancing my expertise in:
@@ -38,7 +38,7 @@ I am constantly improving my skills and staying updated with the latest trends i
 
 ## 🏆 Projects
 
-### Tool Demo Shop Website
+### Tool Demo Shop Website : https://github.com/Alokmish11/Tools-Shop-Demo.git
 - **Technologies**: Cypress, POM, BDD with Cucumber, JavaScript
 - **Description**: Developed an automation testing framework to validate key functionalities of the Tool Demo Shop website.
 - **Highlights**:
@@ -46,13 +46,16 @@ I am constantly improving my skills and staying updated with the latest trends i
   - Automated test scenarios for navigation and product listings.
   - Enhanced collaboration with the development team by reporting issues with clear replication steps.
 
-### VisionScript Website
+### VisionScript Website : https://github.com/Alokmish11/Manual-Testing-Project.git
 - **Technologies**: Manual Testing, JIRA
 - **Description**: Conducted end-to-end manual testing focusing on functionality, usability, and cross-platform compatibility.
 - **Highlights**:
   - Designed and executed detailed test cases for user authentication and file management.
   - Identified and documented algorithmic and logical errors.
   - Performed regression testing to enhance user experience.
+ 
+### Cucumber project  Assignment : https://github.com/Alokmish11/Cucumber-Project.git
+- **Technologies**: Cypress , BBD Cucumber 
 
 ## 🤝 Let's Connect
 - **Portfolio**: [My Portfolio](https://heartfelt-melomakarona-d83b9a.netlify.app/)
