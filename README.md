@@ -64,8 +64,8 @@ I am a results-driven **Software Development Engineer in Test (SDET)** with expe
 - **GitHub**: [Alokmish11](https://github.com/Alokmish11)  
 - **Email**: [Alokmi2111997@gmail.com](mailto:Alokmi2111997@gmail.com)
 
-
-  ### Why This Version Stands Out:
+ 
+ ### Why This Version Stands Out:
 1. **Professional Tone**: Focused on showcasing your expertise and achievements in a concise and impactful manner.
 2. **Clear Structure**: Sections are well-organized, making it easy to navigate.
 3. **Focused Content**: Highlights your skills, projects, and goals without unnecessary distractions.
