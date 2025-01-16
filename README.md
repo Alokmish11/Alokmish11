@@ -1,6 +1,8 @@
 # Hi there, I'm Alok Mishra! 👋
 
-![Banner](https://user-images.githubusercontent.com/your-banner-image-link)
+<div align="center">
+  <img src="https://img.freepik.com/free-vector/quality-assurance-concept-illustration_114360-2279.jpg?w=1380&t=st=1673867461~exp=1673868061~hmac=f4b70a8e30f48d1b7e3d91654c84a8e8e456e1d8c6b2f3dbec7c77c91a1cfc56" alt="Automation Testing Banner" width="100%">
+</div>
 
 ---
 
