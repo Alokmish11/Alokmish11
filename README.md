@@ -35,11 +35,12 @@ I am a results-driven **Software Development Engineer in Test (SDET)** with expe
 - Automated test scenarios to validate seamless navigation and product listings.
 - Collaborated with developers to resolve issues and enhance website functionality.
 
-### 3. [Cucumber Project - E-commerce Testing]https://github.com/Alokmish11/Cucumber-Project.git()
+### 3. [Cucumber Project - E-commerce Testing](https://github.com/Alokmish11/Cucumber-Project.git)
 - Built a robust automation testing framework using *Cucumber* with *BDD* principles.
 - Validated critical workflows such as user login, product search, and checkout process.
 - Ensured test maintainability and scalability by implementing the *Page Object Model (POM)*.
 - Enhanced collaboration by writing feature files in *Gherkin*, making scenarios readable for all stakeholders.
+
 
 
 ## 🏆 **Achievements**
