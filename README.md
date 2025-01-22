@@ -83,6 +83,7 @@ I am a results-driven **Software Development Engineer in Test (SDET)** with expe
 - **LinkedIn**: [Alok Mishra](https://www.linkedin.com/in/alok-mishra-90067224a)  
 - **GitHub**: [Alokmish11](https://github.com/Alokmish11)  
 - **Email**: [Alokmi2111997@gmail.com](mailto:Alokmi2111997@gmail.com)
+- **Resume**: [Resume]()
 
  
  ### Why This Version Stands Out:
